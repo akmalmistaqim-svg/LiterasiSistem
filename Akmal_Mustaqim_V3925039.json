@@ -1,0 +1,510 @@
+{
+    "Data Hewan": [
+        {
+            "hewan": "Rusa",
+            "kaki": 4,
+            "usia": 12
+        },
+        {
+            "hewan": "Kucing",
+            "kaki": 4,
+            "usia": 10
+        },
+        {
+            "hewan": "Ayam",
+            "kaki": 2,
+            "usia": 7
+        },
+        {
+            "hewan": "Anjing",
+            "kaki": 4,
+            "usia": 14
+        },
+        {
+            "hewan": "Gajah",
+            "kaki": 4,
+            "usia": 50
+        },
+        {
+            "hewan": "Singa",
+            "kaki": 4,
+            "usia": 45
+        },
+        {
+            "hewan": "Kambing",
+            "kaki": 4,
+            "usia": 25
+        },
+        {
+            "hewan": "Harimau",
+            "kaki": 4,
+            "usia": 80
+        },
+        {
+            "hewan": "Kuda",
+            "kaki": 4,
+            "usia": 70
+        },
+        {
+            "hewan": "Bebek",
+            "kaki": 2,
+            "usia": 12
+        },
+        {
+            "hewan": "Merpati",
+            "kaki": 2,
+            "usia": 10
+        },
+        {
+            "hewan": "Kelinci",
+            "kaki": 4,
+            "usia": 17
+        },
+        {
+            "hewan": "Zebra",
+            "kaki": 4,
+            "usia": 34
+        },
+        {
+            "hewan": "Kerbau",
+            "kaki": 4,
+            "usia": 45
+        },
+        {
+            "hewan": "sapi",
+            "kaki": 4,
+            "usia": 29
+        },
+        {
+            "hewan": "Babi",
+            "kaki": 4,
+            "usia": 5
+        },
+        {
+            "hewan": "Kangguru",
+            "kaki": 4,
+            "usia": 65
+        },
+        {
+            "hewan": "Oranghutan",
+            "kaki": 2,
+            "usia": 43
+        },
+        {
+            "hewan": "Gorila",
+            "kaki": 2,
+            "usia": 32
+        },
+        {
+            "hewan": "Iguana",
+            "kaki": 4,
+            "usia": 23
+        },
+        {
+            "hewan": "Bunglon",
+            "kaki": 4,
+            "usia": 7
+        },
+        {
+            "hewan": "Unta",
+            "kaki": 4,
+            "usia": 56
+        },
+        {
+            "hewan": "Serigala",
+            "kaki": 4,
+            "usia": 43
+        },
+        {
+            "hewan": "bison",
+            "kaki": 4,
+            "usia": 23
+        },
+        {
+            "hewan": "Buaya",
+            "kaki": 4,
+            "usia": 34
+        }
+    ],
+    "Data Buah": [
+        {
+            "buah": "Alpikat",
+            "warna": "hijau",
+            "berat": 0.7
+        },
+        {
+            "buah": "Apel",
+            "warna": "merah",
+            "berat": 1.5
+        },
+        {
+            "buah": "Anggur",
+            "warna": "ungu",
+            "berat": 0.8
+        },
+        {
+            "buah": "Belimbing",
+            "warna": "kuning",
+            "berat": 1.4
+        },
+        {
+            "buah": "Blewah",
+            "warna": "kuning",
+            "berat": 1.2
+        },
+        {
+            "buah": " Buah Naga",
+            "warna": "ungu",
+            "berat": 1.6
+        },
+        {
+            "buah": "Ceri",
+            "warna": "merah",
+            "berat": 1.8
+        },
+        {
+            "buah": "Delima",
+            "warna": "kuning",
+            "berat": 0.9
+        },
+        {
+            "buah": "Durian",
+            "warna": "kuning",
+            "berat": 1.5
+        },
+        {
+            "buah": "Jambu air",
+            "warna": "merah",
+            "berat": 1.4
+        },
+        {
+            "buah": "Jambu biji",
+            "warna": "hijau",
+            "berat": 1.5
+        },
+        {
+            "buah": "Jeruk",
+            "warna": "hijau",
+            "berat": 1.2
+        },
+        {
+            "buah": "Kelapa",
+            "warna": "cokelat",
+            "berat": 1.9
+        },
+        {
+            "buah": "Kelengkeng",
+            "warna": "cokelat",
+            "berat": 1.5
+        },
+        {
+            "buah": "Kuwi",
+            "warna": "merah",
+            "berat": 0.7
+        },
+        {
+            "buah": "Kurma",
+            "warna": "cokelat",
+            "berat": 0.9
+        },
+        {
+            "buah": "Lemon",
+            "warna": "kuning",
+            "berat": 1.6
+        },
+        {
+            "buah": "Mangga",
+            "warna": "hijau",
+            "berat": 1.2
+        },
+        {
+            "buah": "Manggis",
+            "warna": "ungu",
+            "berat": "1.9"
+        },
+        {
+            "buah": "Melon",
+            "warna": "hijau",
+            "berat": 1.4
+        },
+        {
+            "buah": "Nanas",
+            "warna": "kuning",
+            "berat": 1.3
+        },
+        {
+            "buah": "Pepaya",
+            "warna": "hijau",
+            "berat": 1.6
+        },
+        {
+            "buah": "Pir",
+            "warna": "kuning",
+            "berat": 1.3
+        },
+        {
+            "buah": "Pisang",
+            "warna": "kuning",
+            "berat": 0.8
+        },
+        {
+            "buah": "Salak",
+            "warna": "cokelat",
+            "berat": 1.2
+        }
+    ],
+    "Data Kendaraan": [
+        {
+            "kendaraan": "sepeda",
+            "roda" : 2,
+            "kapasitas": 1
+        },
+        {
+            "kendaraan": "delman",
+            "roda": 4,
+            "kapasitas": 4
+        },
+        {
+            "kendaraan": "sepeda motor",
+            "roda": 2,
+            "kapasitas": 2
+        },
+        {
+            "kendaraan": "becak",
+            "roda": 3,
+            "kapasitas": 2
+        },
+        {
+            "kendaraan": "bajaj",
+            "roda": 3,
+            "kapasitas": 4
+        },
+        {
+            "kendaraan": "mobil",
+            "roda": 4,
+            "kapasitas": 6
+        },
+        {
+            "kendaraan": "bus",
+            "roda": 4,
+            "kapasitas": 20
+        },
+        {
+            "kendaraan": "truk",
+            "roda": 4,
+            "kapasitas": 4
+        },
+        {
+            "kendaraan": "kereta api",
+            "roda": 10,
+            "kapasitas": 50
+        },
+        {
+            "kendaraan": "bemo",
+            "roda": 3,
+            "kapasitas": 4
+        },
+        {
+            "kendaraan": "trem",
+            "roda": 4,
+            "kapasitas": 3
+        },
+        {
+            "kendaraan": "tram",
+            "roda": 50,
+            "kapasitas": 100
+        },
+        {
+            "kendaraan": "pick up",
+            "roda": 4,
+            "kapasitas": 8
+        },
+        {
+            "kendaraan": "velomobil",
+            "roda": 4,
+            "kapasitas": 7
+        },
+        {
+            "kendaraan": "taksi",
+            "roda": 4,
+            "kapasitas": 5
+        },
+        {
+            "kendaraan": "kereta luncur",
+            "roda": 4,
+            "kapasitas": 3
+        },
+        {
+            "kendaraan": "skuter mobilitas",
+            "roda": 2,
+            "kapasitas": 2
+        },
+        {
+            "kendaraan": "MRT",
+            "roda": 4,
+            "kapasitas": 6
+        },
+        {
+            "kendaraan": "LRT",
+            "roda": 4,
+            "kapasitas": 7
+        },
+        {
+            "kendaraan": "van",
+            "roda": 4,
+            "kapasitas": 6
+        },
+        {
+            "kendaraan": "kapal selam",
+            "roda": 100,
+            "kapasitas": 100
+        },
+        {
+            "kendaraan": "pesawat",
+            "roda": 3,
+            "kapasitas": 50
+        },
+        {
+            "kendaraan": "gerobak sapi",
+            "roda": 4,
+            "kapasitas": 1
+        },
+        {
+            "kendaraan": "skateboard",
+            "roda": 3,
+            "kapasitas": 1
+        },
+        {
+            "kendaraan": "pesawat tempur",
+            "roda": 20,
+            "kapasitas": 200
+        }
+    ],
+    "Data Negara": [
+        {
+            "negara": "Indonesia",
+            "benua": "asia",
+            "populasi": 275
+        },
+        {
+            "negara": "Cina",
+            "benua": "asia",
+            "populasi": 1488
+        },
+        {
+            "negara": "India",
+            "benua": "asia",
+            "populasi": "1408"
+        },
+        {
+            "negara": "Korea selatan",
+            "benua": "asia",
+            "populasi": 51
+        },
+        {
+            "negara": "Nigeria",
+            "benua": "afrika",
+            "populasi": 227
+        },
+        {
+            "negara": " Mesir",
+            "benua": "afrika",
+            "populasi": 112
+        },
+        {
+            "negara": "Ethiopia",
+            "benua": "afrika",
+            "populasi": 144
+        },
+        {
+            "negara": "Afrika selatan",
+            "benua": "afrika",
+            "populasi": 123
+        },
+        {
+            "negara": "Tanzania",
+            "benua": "afrika",
+            "populasi": 43
+        },
+        {
+            "negara": "Jerman",
+            "benua": "eropa",
+            "populasi": 342
+        },
+        {
+            "negara": "Inggris",
+            "benua": "eropa",
+            "populasi": 422
+        },
+        {
+            "negara": "Prancis",
+            "benua": "eropa",
+            "populasi": 321
+        },
+        {
+            "negara": "Italia",
+            "benua": "eropa",
+            "populasi": 532
+        },
+        {
+            "negara": "Spanyol",
+            "benua": "eropa",
+            "populasi": 321
+        },
+        {
+            "negara": "Wales",
+            "benua": "eropa",
+            "populasi": 23
+        },
+        {
+            "negara": "Portugal",
+            "benua": "eropa",
+            "populasi": 342
+        },
+        {
+            "negara": "Swedia",
+            "benua": "eropa",
+            "populasi": 43
+        },
+        {
+            "negara": "Swiss",
+            "benua": "eropa",
+            "populasi": 432
+        },
+        {
+            "negara": "Norwegia",
+            "benua": "eropa",
+            "populasi": 372
+        },
+        {
+            "negara": "Belgia",
+            "benua": "eropa",
+            "populasi": 321
+        },
+        {
+            "negara": "Belanda",
+            "benua": "eropa",
+            "populasi": 965
+        },
+        {
+            "negara": "Denmark",
+            "benua": "eropa",
+            "populasi": 542
+        },
+        {
+            "negara": "Brazil",
+            "benua": "amerika selatan",
+            "populasi": 123
+        },
+        {
+            "negara": "Kolombia",
+            "benua": "amerika selatan",
+            "populasi": 543
+        },
+        {
+            "negara": "Amerika serikat",
+            "benua": "amerika utara",
+            "populasi": 432
+        }
+    ]
+}
